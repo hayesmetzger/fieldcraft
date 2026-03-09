@@ -47,6 +47,11 @@ Ready to publish. Copy the file to `src/content/blog/`, set the `pubDate`, commi
 
 ---
 
+## Voice Reminders (for every Sonnet brief)
+- Discipline and practical application come first — the craft is the point
+- Moments of whimsy and humor are welcome — earned lightness, not forced jokes
+- Polished but never sterile. Specific over general. Show, don't preach.
+
 ## The Agent's Role
 
 When Hayes says "draft this one" or picks a topic from `ideas.md`:
