@@ -56,11 +56,16 @@ Ready to publish. Copy the file to `src/content/blog/`, set the `pubDate`, commi
 
 When Hayes says "draft this one" or picks a topic from `ideas.md`:
 
-1. Check if an outline exists in `01-outlines/` — create one if not
-2. Confirm the outline with Hayes (or proceed if he says to)
-3. Spin up Sonnet to write the full draft from the outline
-4. Save to `02-drafts/`, then move to `03-review/`
-5. Tell Hayes it's ready for review
+1. **Outline** — Check if an outline exists in `01-outlines/`. Create one if not. Confirm with Hayes or proceed if told to.
+2. **Research** — Before writing, search the web for:
+   - Real techniques, vocabulary, and details specific to the discipline
+   - Interesting angles, edge cases, or counterintuitive facts
+   - Quotes from practitioners (if findable)
+   - Anything that could sharpen Act I or make Act III land harder
+   - Save a `slug-research.md` file alongside the outline with key findings and sources
+3. **Draft** — Hand the outline + research + WRITING-GUIDE.md to Sonnet. Instruct it to write from the perspective of a practitioner, follow the three-act structure, and not explain the parallel.
+4. **Stage** — Save to `02-drafts/`, move to `03-review/`
+5. **Notify** — Tell Hayes it's ready for review
 
 ---
 
