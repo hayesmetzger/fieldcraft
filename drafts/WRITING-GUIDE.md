@@ -61,15 +61,17 @@ The best endings leave something unresolved on purpose. A question. An image. A 
 
 ## Format Guidelines
 
+**Target length: 250–1,000 words across all formats.** That's roughly 1–4 pages in a typical book. Fieldcraft pieces are meant to be read in one sitting — on a lunch break, between tasks, before bed. Respect the reader's time.
+
 | Format | Length | Cadence |
 |--------|--------|---------|
-| Feature Essay | 1,200–2,000 words | 2x/week |
-| Field Note | 400–800 words | 2x/week |
-| Cross-Reference | 800–1,400 words | 1x/week |
-| Interview | Flexible | 1x/week |
-| Weekend Read | 1,500–2,500 words | 1x/week |
+| Feature Essay | 600–1,000 words | 2x/week |
+| Field Note | 250–500 words | 2x/week |
+| Cross-Reference | 500–900 words | 1x/week |
+| Interview | 500–900 words | 1x/week |
+| Weekend Read | 700–1,000 words | 1x/week |
 
-**Field Notes** are punchy. One lesson, one craft, one clean landing. No time for meandering.
+**Field Notes** are punchy. One lesson, one craft, one clean landing. No meandering.
 
 **Feature Essays** earn their length. Every paragraph earns its place. If a section could be cut without losing anything, cut it.
 
