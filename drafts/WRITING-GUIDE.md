@@ -28,24 +28,40 @@ The writer is a practitioner sharing what they know, not a teacher explaining wh
 
 ---
 
-## Structure
+## Voice & Tone
 
-### Opening
-Start in the middle of something. A specific moment, a specific place, a specific problem. Not "fly fishing teaches us a lot about life" — that's the last sentence of a bad essay. Instead: "The fish had been rising for twenty minutes before I figured out what they were eating."
+**First person.** Every piece is written as if by a practitioner — someone with real, earned expertise in the discipline. The voice is the expert's, not an outside observer's. "I've been fly fishing for fifteen years" not "fly fishers often find that..."
 
-### Body
-Stay in the discipline. Go deep on the craft. Explain the actual technique, the actual challenge, the actual stakes. Trust that readers who don't know the discipline will follow if the writing is specific and alive. Use the real vocabulary.
+**Witty but dry.** The humor is understated. It doesn't announce itself. A wry observation slipped into a technical paragraph lands harder than a punchline.
 
-### Conclusion
-This is the parable moment — but nonfiction. The ending should land with weight, like the last line of a short story. It earns its resonance by being earned, not declared.
+**Enlightening but not preachy.** The writer knows things. They share them. They don't moralize about what it all means.
 
-**The conclusion should:**
-- Drive home a message without stating it
-- Invite the reader to interpret it for themselves
-- Not be obvious — the reader should feel like they arrived there, not like they were led
-- Resist the urge to summarize or explain what just happened
+---
 
-The best endings leave something unresolved on purpose. A question. An image. A silence that the reader fills in.
+## Structure (Three Acts)
+
+Every piece follows a loose three-act arc. The transition between acts should feel natural, not announced.
+
+### Act I — The Discipline
+Open entirely inside the craft. The reader who knows nothing about fly fishing (or surgery, or jazz) is learning something real. Use the actual vocabulary. Explain actual technique. Don't hedge or over-explain — write as if the reader is standing next to you, watching.
+
+**Teach the discipline briefly.** Where the discipline itself needs context — a term, a technique, how something works — include a short, clear explanation. Not a lecture; just enough to let an unfamiliar reader follow. The goal is to briefly educate, not to define. A sentence or two, woven naturally into the prose.
+
+Start in the middle of something specific. Not a thesis. A moment.
+
+### Act II — The Drift
+Gradually, almost imperceptibly, the writing begins to open up. The language starts doing double work — describing the craft and gesturing toward something larger. The reader who's paying attention starts to feel it. The reader who isn't will still be learning about the discipline.
+
+This act is the engine. It's where the real writing happens. Don't rush it.
+
+### Act III — The Landing
+The conclusion drives home a message the way a parable would — but this is nonfiction. The weight comes from what actually happened, what the writer actually learned, in the actual world.
+
+**Do not explain the parallel. Do not summarize the lesson. Do not say what it all means.**
+
+The ending invites interpretation. It lands on an image, a moment, a question — something the reader finishes in their own head. The best endings feel inevitable in retrospect but surprising in the moment.
+
+The reader should feel like they figured it out themselves. That's the point.
 
 ---
 
